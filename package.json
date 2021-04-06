@@ -1,0 +1,19 @@
+{
+  "name": "jsonsettingviewer",
+  "version": "1.0.0",
+  "description": "A way to view JSON files with a GUI. Quick visualizer for setting files for example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bish0pQ/JsonSettingViewer.git"
+  },
+  "author": "Tommy Versantvoort",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bish0pQ/JsonSettingViewer/issues"
+  },
+  "homepage": "https://github.com/Bish0pQ/JsonSettingViewer#readme"
+}
